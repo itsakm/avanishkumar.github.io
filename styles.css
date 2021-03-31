@@ -139,6 +139,13 @@ img{
     background-color: var(--second-color);
     transition: .5s;
   }
+  .home__img{
+  position: absolute;
+  top:412px;
+  right: 0;
+  bottom: 0;
+  width: 222px;
+}
 }
 .nav__item{
   margin-bottom: var(--mb-4);
@@ -215,7 +222,6 @@ img{
 }
 .home__img{
   position: absolute;
-  top:412px;
   right: 0;
   bottom: 0;
   width: 222px;
