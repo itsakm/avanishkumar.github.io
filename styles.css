@@ -215,6 +215,7 @@ img{
 }
 .home__img{
   position: absolute;
+  top:412px;
   right: 0;
   bottom: 0;
   width: 222px;
